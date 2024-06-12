@@ -1,3 +1,5 @@
 # A simple blogging website using React And Appwrite
 
-# first project
+
+# performing basic functionaities of login ,signup ,logout , blogwritting and viewing other blogs
+
